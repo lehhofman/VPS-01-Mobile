@@ -26,8 +26,8 @@ O aplicativo é projetado com uma temática de viagem, apresentando uma interfac
 
 ### Pré-requisitos
 
-- Node.js (versão 14 ou superior)
-- Yarn (gerenciador de pacotes)
+- Node.js
+- Yarn 
 
 ### Instalação
 
